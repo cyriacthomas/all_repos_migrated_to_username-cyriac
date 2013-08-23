@@ -1,4 +1,6 @@
-all_repos_migrated_to_username-cyriac
+Readme
 =====================================
 
-New username : cyriac.
+New username : (cyriac)[https://github.com/cyriac].
+
+All repositories are migrated to @cyriac
